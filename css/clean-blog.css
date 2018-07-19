@@ -261,7 +261,7 @@ header.masthead .post-heading .meta {
 }
 
 header.masthead .post-heading .meta a {
-  color: #000000;
+  color: #fff;
 }
 
 @media only screen and (min-width: 768px) {
