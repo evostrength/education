@@ -194,10 +194,14 @@ header.masthead .overlay {
 }
 
 header.masthead .page-heading,
-header.masthead .post-heading,
-header.masthead .site-heading {
+header.masthead .post-heading, {
   padding: 200px 0 150px;
   color: black;
+}
+
+header.masthead .site-heading {
+  padding: 200px 0 150px;
+  color: white;
 }
 
 @media only screen and (min-width: 768px) {
