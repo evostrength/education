@@ -190,7 +190,7 @@ header.masthead .overlay {
   height: 100%;
   width: 100%;
   background-color: #212529;
-  opacity: 1;
+  opacity: 0.0;
 }
 
 header.masthead .page-heading,
